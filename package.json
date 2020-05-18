@@ -1,0 +1,22 @@
+{
+  "name": "container-nodejs",
+  "version": "1.0.0",
+  "description": "use for container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tevoeh/container-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tevoeh/container-nodejs/issues"
+  },
+  "homepage": "https://github.com/tevoeh/container-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
